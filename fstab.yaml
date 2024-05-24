@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p10052-e41262.adobeaemcloud.com/bin/franklin.delivery/clementepereyra/crosswalk-test/main"
+    url: "https://author-p10052-e41262.adobeaemcloud.com/bin/franklin.delivery/clementepereyra/crosswalk-test/feat-123"
     type: "markup"
     suffix: ".html"
