@@ -204,5 +204,20 @@
          "value": ""
        }
      ]
+  },
+  {
+    "id": "page-metadata",
+    "fields": [
+      {
+        "component": "tab",
+        "label": "3|SHARE Props",
+        "name": "tab1"
+      },
+      {
+        "component": "text",
+        "name": "theme",
+        "label": "Theme"
+      }
+    ]
   }  
 ]
