@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Crosswalk Test
+AKA: AEM Based Edge Delivery project.
 
 ## Environments
 - Preview: https://main--crosswalk-test--clementepereyra.hlx.page/
