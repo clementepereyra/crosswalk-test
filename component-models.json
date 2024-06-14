@@ -209,7 +209,7 @@
          "name": "classes",
          "label": "Style",
          "placeholder": "Select the style",
-         "value": "quote--primary",
+         "value": "",
          "options": [
             {
               "name": "quote--primary",
