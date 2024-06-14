@@ -190,7 +190,7 @@
     "id": "quote",
     "fields": [
        {
-         "component": "text",
+         "component": "rich-text",
          "name": "quote",
          "value": "",
          "label": "Quote",
@@ -204,12 +204,22 @@
          "value": ""
        },
        {
-         "component": "text",
+         "component": "select",
          "valueType": "string",
          "name": "classes",
-         "label": "CSS Class",
-         "placeholder": "block__element--modifier",
-         "value": ""
+         "label": "Style",
+         "placeholder": "Select the style",
+         "value": "quote--primary",
+         "options": [
+            {
+              "name": "quote--primary",
+              "value": "Primary"
+            },
+            {
+              "name": "quote--secondary",
+              "value": "Secondary"
+            }
+          ]
        }
      ]
   },
