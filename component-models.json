@@ -190,17 +190,25 @@
     "id": "quote",
     "fields": [
        {
-         "component": "text-area",
+         "component": "text",
          "name": "quote",
          "value": "",
          "label": "Quote",
          "valueType": "string"
        },
        {
-         "component": "text-input",
+         "component": "text",
          "valueType": "string",
          "name": "author",
          "label": "Author",
+         "value": ""
+       },
+       {
+         "component": "text",
+         "valueType": "string",
+         "name": "classes",
+         "label": "CSS Class",
+         "placeholder": "block__element--modifier",
          "value": ""
        }
      ]
