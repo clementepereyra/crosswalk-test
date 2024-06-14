@@ -147,7 +147,8 @@
                   "name": "Quote",
                   "model": "quote",
                   "quote": "Think, McFly! Think!",
-                  "author": "Biff Tannen"
+                  "author": "Biff Tannen",
+                  "classes": "quote--primary"
                 }
               }
             }
