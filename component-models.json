@@ -212,12 +212,12 @@
          "value": "",
          "options": [
             {
-              "name": "quote--primary",
-              "value": "Primary"
+              "value": "quote--primary",
+              "name": "Primary"
             },
             {
-              "name": "quote--secondary",
-              "value": "Secondary"
+              "value": "quote--secondary",
+              "name": "Secondary"
             }
           ]
        }
